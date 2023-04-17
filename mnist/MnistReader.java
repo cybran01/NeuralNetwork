@@ -1,3 +1,5 @@
+package mnist;
+
 import static java.lang.String.format;
 
 import java.io.ByteArrayOutputStream;
